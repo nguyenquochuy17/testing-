@@ -19,5 +19,8 @@
   "homepage": "https://github.com/nguyenquochuy17/testing-#readme",
   "dependencies": {
     "react-bootstrap": "^2.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
   }
 }
